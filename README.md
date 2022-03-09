@@ -1,6 +1,6 @@
 # test
 
-The python code were writen by https://github.com/AlexTrushkovsky.
+The python code were written by https://github.com/AlexTrushkovsky.
 
 ```bash
 docker build . -t test
