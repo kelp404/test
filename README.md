@@ -3,6 +3,12 @@
 The python code were written by https://github.com/AlexTrushkovsky.  
 The last version is at [here](https://gitlab.com/a_gonda/nowarddos).
 
+## Clone
+```bash
+git clone https://github.com/kelp404/test.git
+git submodule update --init
+```
+
 ## Build
 ### Build the docker image.
 ```bash
