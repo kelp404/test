@@ -1,0 +1,3 @@
+[submodule "nowarddos"]
+	path = nowarddos
+	url = https://gitlab.com/a_gonda/nowarddos.git
